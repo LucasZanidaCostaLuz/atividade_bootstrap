@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.humpty_dumpty{
+    width: 70%;
+}
+
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
